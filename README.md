@@ -9,7 +9,6 @@
             <img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
  </div><br>
 
-
 <!-- GREETING  -->
 <h3 align="center">
   Hello! Welcome to my profile.<br> *****
