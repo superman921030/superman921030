@@ -56,8 +56,6 @@
 
 
 
-
-
 ## 💻 Operating Systems
 ![](https://img.shields.io/badge/ubuntu-87CF3E?style=for-the-badge&logo=ubuntu&logoColor=ff6d00) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
